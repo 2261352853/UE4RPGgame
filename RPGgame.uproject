@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{166A7FF1-4A34-1D28-DD37-46913BBFECDE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RPGgame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
