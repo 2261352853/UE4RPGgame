@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Gameprojectoffreetime\\UE4RPGgame\\Source\\RPGgame\\RPGgame.Build.cs",
+		"D:\\Gameprojectoffreetime\\UE4RPGgame\\Source\\RPGgame.Target.cs",
+		"D:\\Gameprojectoffreetime\\UE4RPGgame\\Source\\RPGgameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

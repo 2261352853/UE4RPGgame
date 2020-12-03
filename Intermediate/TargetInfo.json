@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RPGgame",
+			"Path": "D:\\Gameprojectoffreetime\\UE4RPGgame\\Source\\RPGgame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RPGgameEditor",
+			"Path": "D:\\Gameprojectoffreetime\\UE4RPGgame\\Source\\RPGgameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
