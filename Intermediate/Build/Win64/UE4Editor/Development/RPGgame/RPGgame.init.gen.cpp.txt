@@ -1,0 +1,3 @@
+D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\Definitions.RPGgame.h
+D:\UnrealEngine-4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine-4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

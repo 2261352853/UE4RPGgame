@@ -1,0 +1,2 @@
+D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\Definitions.RPGgame.h
+D:\Gameprojectoffreetime\UE4RPGgame\Source\RPGgame\RPGgame.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RPGgame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine-4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\RPGgame.cpp.obj"
+"D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\RPGgameGameModeBase.cpp.obj"
+"D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\RPGgame.init.gen.cpp.obj"
+"D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\RPGgameGameModeBase.gen.cpp.obj"
+"D:\UnrealEngine-4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Gameprojectoffreetime\UE4RPGgame\Intermediate\Build\Win64\UE4Editor\Development\RPGgame\UE4Editor-RPGgame.lib"
+/INCLUDE:IMPLEMENT_MODULE_RPGgame
